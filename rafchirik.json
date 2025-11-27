@@ -1,12 +1,12 @@
 {
-  "version": 1,
+  "version": 2,
   "base": "https://cdn.jsdelivr.net/gh/ChickenRafChirik/rafchirik-menu@main/images/",
   "items": [
     {
       "id": "burger_crispy_chicken",
       "category": "burgers",
       "title": "Crispy Chicken Burger",
-      "desc": "Crunchy chicken fillet, lettuce, tomato and house mayo in a soft bun. — ~250 g",
+      "desc": "Crispy chicken fillet in a light golden coating, paired with fresh lettuce, tomato and our signature mayo.\n\nA balanced, juicy burger with a clean, satisfying crunch. — ~250 g",
       "price": 159,
       "image": "burger_crispy_chicken.jpg"
     },
@@ -14,7 +14,7 @@
       "id": "burger_spicy_chicken",
       "category": "burgers",
       "title": "Spicy Chicken Burger",
-      "desc": "Crispy spicy fillet with jalapeños, fresh onion and pepper mayo. — ~260 g",
+      "desc": "Crispy chicken fillet infused with gentle heat, topped with jalapeños, onion and spicy mayo.\n\nBright, peppery and full of character — perfect for spice lovers. — ~260 g",
       "price": 169,
       "image": "burger_spicy_chicken.jpg"
     },
@@ -22,7 +22,7 @@
       "id": "burger_double_chicken",
       "category": "burgers",
       "title": "Double Chicken Burger",
-      "desc": "Two crispy chicken fillets, cheddar and mayo for a fuller bite. — ~330 g",
+      "desc": "Two layers of crispy chicken, melted cheddar and smooth mayo come together for a full, hearty bite.\n\nRich texture, deep flavor, confident portion size. — ~330 g",
       "price": 199,
       "image": "burger_double_chicken.webp"
     },
@@ -31,7 +31,7 @@
       "id": "shawarma_chicken_classic",
       "category": "shawarma",
       "title": "Chicken Shawarma",
-      "desc": "Marinated chicken, tomatoes, cucumbers and garlic sauce in warm lavash. — ~380 g",
+      "desc": "Tender chicken marinated in herbs, wrapped with tomatoes, cucumbers and creamy garlic sauce in warm lavash.\n\nClassic, aromatic and consistently satisfying. — ~380 g",
       "price": 149,
       "image": "shawarma_chicken_classic.webp"
     },
@@ -39,7 +39,7 @@
       "id": "shawarma_chicken_cheese",
       "category": "shawarma",
       "title": "Cheese Shawarma",
-      "desc": "Classic chicken shawarma with melted cheese and mild mayo. — ~400 g",
+      "desc": "Traditional chicken shawarma with a generous layer of melted cheese and mild creamy mayo.\n\nSoft, rich and comfort‑focused. — ~400 g",
       "price": 159,
       "image": "shawarma_chicken_cheese.png"
     },
@@ -47,7 +47,7 @@
       "id": "shawarma_spicy",
       "category": "shawarma",
       "title": "Spicy Shawarma",
-      "desc": "Chicken shawarma with hot sauce and fresh onions for a fiery taste. — ~380 g",
+      "desc": "Chicken shawarma with fresh vegetables and a bold hot sauce that adds heat without overwhelming.\n\nEnergetic, spicy and well‑rounded. — ~380 g",
       "price": 159,
       "image": "shawarma_spicy.png"
     },
@@ -56,7 +56,7 @@
       "id": "fried_strips_6",
       "category": "fried_chicken",
       "title": "Chicken Strips (6 pcs)",
-      "desc": "Juicy chicken strips with a thin crispy coating. — ~210 g",
+      "desc": "Juicy chicken fillets with a thin, crispy breading that stays light and delicate.\n\nPerfect for dipping and sharing. — ~210 g",
       "price": 169,
       "image": "fried_strips_6.jpg"
     },
@@ -64,7 +64,7 @@
       "id": "fried_wings_8",
       "category": "fried_chicken",
       "title": "Crispy Wings (8 pcs)",
-      "desc": "Crispy wings double fried for extra crunch. — ~320 g",
+      "desc": "Double‑fried for a stable crunch, these wings offer rich flavor and satisfying texture.\n\nIdeal both as a snack and a full portion. — ~320 g",
       "price": 189,
       "image": "fried_wings_8.webp"
     },
@@ -72,7 +72,7 @@
       "id": "fried_nuggets_9",
       "category": "fried_chicken",
       "title": "Chicken Nuggets (9 pcs)",
-      "desc": "Lightly seasoned nuggets with a soft center. — ~190 g",
+      "desc": "Soft, mild nuggets with a golden crust and a tender center.\n\nSimple, comforting and kid‑friendly. — ~190 g",
       "price": 129,
       "image": "fried_nuggets_9.jpg"
     },
@@ -81,7 +81,7 @@
       "id": "wrap_chicken_fresh",
       "category": "wraps",
       "title": "Fresh Chicken Wrap",
-      "desc": "Grilled chicken, lettuce, cucumbers and yogurt sauce. — ~360 g",
+      "desc": "Grilled chicken paired with crisp lettuce, cucumbers and refreshing yogurt sauce.\n\nLight, clean and easy to enjoy. — ~360 g",
       "price": 139,
       "image": "wrap_chicken_fresh.jpg"
     },
@@ -89,7 +89,7 @@
       "id": "wrap_chicken_caesar",
       "category": "wraps",
       "title": "Chicken Caesar Wrap",
-      "desc": "Chicken, romaine, parmesan and Caesar dressing in a warm wrap. — ~370 g",
+      "desc": "Warm wrap filled with chicken, fresh romaine, parmesan and creamy Caesar dressing.\n\nSmooth, savory and balanced. — ~370 g",
       "price": 159,
       "image": "wrap_chicken_caesar.jpg"
     },
@@ -98,7 +98,7 @@
       "id": "side_fries",
       "category": "sides",
       "title": "French Fries",
-      "desc": "Classic crispy fries. — ~130 g",
+      "desc": "Golden fries with a soft center and crisp exterior.\n\nA timeless classic and a perfect side. — ~130 g",
       "price": 69,
       "image": "side_fries.avif"
     },
@@ -106,7 +106,7 @@
       "id": "side_wedges",
       "category": "sides",
       "title": "Potato Wedges",
-      "desc": "Seasoned wedges baked to a golden crust. — ~150 g",
+      "desc": "Seasoned potato wedges baked to a caramelized crust and fluffy inside.\n\nAromatic and hearty. — ~150 g",
       "price": 79,
       "image": "side_wedges.jpg"
     },
@@ -114,7 +114,7 @@
       "id": "side_onion_rings",
       "category": "sides",
       "title": "Onion Rings",
-      "desc": "Crunchy onion rings in airy batter. — ~120 g",
+      "desc": "Sweet onion rings in a light, crispy batter.\n\nCrunchy, airy and addictive. — ~120 g",
       "price": 79,
       "image": "side_onion_rings.avif"
     },
@@ -122,7 +122,7 @@
       "id": "side_coleslaw",
       "category": "sides",
       "title": "Coleslaw",
-      "desc": "Creamy cabbage-carrot salad. — ~140 g",
+      "desc": "Fresh cabbage and carrots in a smooth, slightly tangy dressing.\n\nCooling and refreshing with any main dish. — ~140 g",
       "price": 59,
       "image": "side_coleslaw.jpg"
     },
@@ -131,7 +131,7 @@
       "id": "salad_fresh",
       "category": "salads",
       "title": "Fresh Garden Salad",
-      "desc": "Fresh vegetables with a light vinaigrette. — ~220 g",
+      "desc": "Tomatoes, cucumbers, greens and herbs with a delicate vinaigrette.\n\nFresh and revitalizing. — ~220 g",
       "price": 99,
       "image": "salad_fresh.webp"
     },
@@ -139,7 +139,7 @@
       "id": "salad_chicken",
       "category": "salads",
       "title": "Chicken Salad",
-      "desc": "Grilled chicken, greens and light dressing. — ~240 g",
+      "desc": "Grilled chicken mixed with greens and a light dressing.\n\nNutritious, flavorful and balanced. — ~240 g",
       "price": 129,
       "image": "salad_chicken.webp"
     },
@@ -148,7 +148,7 @@
       "id": "sauce_garlic",
       "category": "sauces",
       "title": "Garlic Sauce",
-      "desc": "Creamy garlic dip. — ~50 ml",
+      "desc": "Creamy garlic dip with a smooth texture and gentle aroma.\n\nPerfect for fries, nuggets and wraps. — ~50 ml",
       "price": 25,
       "image": "sauce_garlic.webp"
     },
@@ -156,7 +156,7 @@
       "id": "sauce_bbq",
       "category": "sauces",
       "title": "BBQ Sauce",
-      "desc": "Sweet-smoky BBQ dip. — ~50 ml",
+      "desc": "Smoky‑sweet BBQ sauce with a glossy finish.\n\nWorks beautifully with wings and burgers. — ~50 ml",
       "price": 25,
       "image": "sauce_bbq.webp"
     },
@@ -164,7 +164,7 @@
       "id": "sauce_cheese",
       "category": "sauces",
       "title": "Cheese Dip",
-      "desc": "Creamy cheese dip. — ~50 ml",
+      "desc": "Warm, creamy cheese dip with a soft melt and mild richness.\n\nA great match for wedges and onion rings. — ~50 ml",
       "price": 29,
       "image": "sauce_cheese.jpg"
     },
@@ -173,7 +173,7 @@
       "id": "kids_nuggets",
       "category": "kids",
       "title": "Kids Nuggets Set",
-      "desc": "6 nuggets, small fries and juice. — set",
+      "desc": "Six tender nuggets, small fries and juice — a simple and comforting set for kids.\n\nMild flavors, soft texture. — set",
       "price": 159,
       "image": "kids_nuggets.jpeg"
     },
@@ -182,7 +182,7 @@
       "id": "drink_soda",
       "category": "drinks",
       "title": "Soda (assorted)",
-      "desc": "Carbonated drinks in assortment. — 330 ml",
+      "desc": "Carbonated drinks served chilled.\n\nA refreshing companion for any meal. — 330 ml",
       "price": 49,
       "image": "drink_soda.png"
     },
@@ -190,7 +190,7 @@
       "id": "drink_juice",
       "category": "drinks",
       "title": "Juice",
-      "desc": "Fruit juice, chilled. — 300 ml",
+      "desc": "Chilled fruit juice with natural sweetness.\n\nLight, smooth and refreshing. — 300 ml",
       "price": 45,
       "image": "drink_juice.webp"
     },
@@ -198,7 +198,7 @@
       "id": "drink_water",
       "category": "drinks",
       "title": "Still Water",
-      "desc": "Mineral still water. — 500 ml",
+      "desc": "Still mineral water with a clean, neutral taste.\n\nA calm refresh between bites. — 500 ml",
       "price": 39,
       "image": "drink_water.png"
     }
